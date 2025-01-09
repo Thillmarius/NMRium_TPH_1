@@ -7,6 +7,14 @@
       "display": {
         "name": ""
       }
+    },
+    {
+      "source": {
+        "jcampURL": "./deptq.jdx"
+      },
+      "display": {
+        "name": ""
+      }
     }
   ]
 }
