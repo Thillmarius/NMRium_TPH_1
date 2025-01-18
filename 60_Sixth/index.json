@@ -34,7 +34,7 @@
     },
     {
       "source": {
-        "jcampURL": "./hmbc.dx"
+        "jcampURL": "./hmbc.jdx"
       },
       "display": {
         "name": ""
@@ -42,7 +42,7 @@
     },
     {
       "source": {
-        "jcampURL": "./hsqc.dx"
+        "jcampURL": "./hsqc.jdx"
       },
       "display": {
         "name": ""
