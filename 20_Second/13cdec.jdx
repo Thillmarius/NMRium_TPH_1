@@ -7,8 +7,8 @@ C13CPD.AUT CDCl3 {D:\Bruker\TopSpin} AVIII600 1
 ##ORIGIN= Bruker BioSpin GmbH
 ##OWNER= AVIII600
 ##LONG DATE= 2024/10/28 13:31:43+0000
-$$ TopSpin 4.4.0
-$$ 2025-01-17 17:47:13.222 +0100  Tobias@NMR09
+$$ TopSpin 4.4.1
+$$ 2025-01-18 14:58:27.295 +0100  User@BUCHWEITZ12
 $$ Compression mode = fixed
 ##.OBSERVE FREQUENCY= 150.91940830899
 ##.OBSERVE NUCLEUS= ^13C
@@ -2056,7 +2056,7 @@ $$   232.718200683594  -12.7181651632283  0.000  10000.000  # for region 1
 ##$RELAX= 
 $$ Bruker specific parameters
 $$ --------------------------
-##$DATPATH= <Z:/data/Datenbank/Erstellte Datenbank>
+##$DATPATH= <C:/Users/User/Documents/Experimentierraum>
 ##$EXPNO= 174
 ##$NAME= <Cyclopropylmethylalkohol>
 ##$PROCNO= 1
