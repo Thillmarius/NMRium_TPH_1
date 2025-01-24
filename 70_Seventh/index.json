@@ -55,6 +55,14 @@
       "display": {
         "name": ""
       }
+    },
+    {
+      "source": {
+        "jcampURL": "./noesy.jdx"
+      },
+      "display": {
+        "name": ""
+      }
     }
   ]
 }
